@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b17636a-37d1-4cc1-80ad-9cb3c018a436": {
+      "ProjectGuid": "4b17636a-37d1-4cc1-80ad-9cb3c018a436",
+      "DisplayName": "MovieMVC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
